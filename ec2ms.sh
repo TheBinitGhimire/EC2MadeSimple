@@ -1,3 +1,4 @@
+#!/bin/bash
 clear;
 function hr(){
 	printf %"$COLUMNS"s | tr " " "-";
